@@ -38,7 +38,7 @@ export class AdduserComponent implements OnInit {
 
     
     
-    this.router.navigate(['/']);
+    //this.router.navigate(['/']);
   }
 
 }
